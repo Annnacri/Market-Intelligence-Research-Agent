@@ -1,0 +1,6 @@
+{
+  "name": "Market Intelligence Research Agent",
+  "description": "Autonomous AI Market Research Agent discovering emerging business trends, competitor intelligence, customer pain points, and evidence-grounded strategic reports for executive decision-making.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
